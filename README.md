@@ -110,16 +110,6 @@
 
 <br/>
 
-### ✦ Top Contributed Repos
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=RachanaMariyanesan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributed repositories"/>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <img src="assets/constellation-footer.svg" alt="Thanks for stopping by" width="100%"/>
